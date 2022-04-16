@@ -3,6 +3,7 @@ package Entidades;
 public class Cadena {
 
     private String frase;
+    private Integer numeroFijoDeJuan;
 
     public Cadena() {
     }
